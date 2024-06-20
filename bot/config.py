@@ -1,0 +1,2 @@
+TOKEN_API = r'7380123577:AAH5IGm5BbySLMQ_ZXeUFgBVmp8GRwhITMM'
+ML_APP_URL = r'http://127.0.0.1:8000/get_model_prediction'
